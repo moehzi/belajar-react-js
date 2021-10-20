@@ -1,0 +1,27 @@
+.h2 {
+	color: red;
+}
+
+.flex-wrapper {
+	display: flex;
+	padding: 0.1rem 4.875rem 0.1rem 2rem;
+
+}
+
+img {
+	margin-right: 24px;
+}
+
+h4 {
+	font-size: 20px;
+	color: #25546F;
+}
+
+.link-active {
+	background-color: #0062FF;
+	border-radius: 16px;
+}
+
+.link-active h4 {
+	color: #fff;
+}
